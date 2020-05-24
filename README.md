@@ -15,3 +15,7 @@ SELENIUM is a free (open-source) automated testing framework used to validate we
 ** Webdrivers should be downloaded beforehand for respective browsers **
 
 https://chromedriver.chromium.org/downloads
+
+# Project information
+
+The basic idea of this project is to send multiple text messages and other image, video stuffs to other users. 
